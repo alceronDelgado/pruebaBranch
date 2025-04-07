@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<?php 
+<?php
 
 include_once 'config/conn.php';
 
@@ -15,6 +15,7 @@ $conn = new Conn();
 
 
 ?>
-    
+<h1>he creado un ejemeplo de push con pull request</h1>
+
 </body>
 </html>
